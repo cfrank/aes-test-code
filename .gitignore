@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+aes-test.so
+aes-test.dylib
+aes-test.dll
+aes-test.a
+aes-test.lib
+aes-test-test-*
+*.exe
+*.o
+*.obj
+*.lst

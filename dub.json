@@ -1,0 +1,22 @@
+{
+	"name": "aes-test",
+	"authors": [
+		"Rin Dev"
+	],
+	"dependencies": {
+		"openssl": "~>1.1.6"
+	},
+	"lflags": [
+		"-L/usr/lib"
+	],
+	"libs": [
+		"ssl",
+		"crypto"
+	],
+	"buildOptions": [
+		"debugMode"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Rin Dev",
+	"license": "BSD 3-clause"
+}
